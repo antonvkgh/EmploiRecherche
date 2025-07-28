@@ -1,0 +1,2 @@
+nom, prenom, date, e-mail
+mijninfo
